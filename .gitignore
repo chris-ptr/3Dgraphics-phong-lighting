@@ -1,0 +1,37 @@
+# Compilation outputs
+*.o
+*.obj
+*.exe
+*.ilk
+*.pdb
+*.log
+*.tlog
+*.idb
+*.recipe
+*.lastbuildstate
+
+# Build directories
+build/
+Debug/
+Release/
+x64/
+x86/
+
+# IDE files
+.vs/
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.sln
+.vscode/
+.idea/
+
+# Windows metadata
+*:Zone.Identifier
+
+# Libraries
+libheadfiles/libs/*.lib
+libheadfiles/libs/*.dll
+# Note: Keep the libraries if you want it to be "batteries included", 
+# but usually it's better to fetch them or expect them in a certain place.
+# I'll leave them for now as they are part of the original repo.
