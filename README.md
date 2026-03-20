@@ -26,6 +26,9 @@ This project demonstrates a 3D scene with dynamic Phong lighting implemented in 
 | **ESC** | Exit Application |
 | **Mouse** | Look Around |
 
+## Video Demonstration
+![Phong Lighting Project](video/3d_phong.gif)
+
 ## Project Structure
 
 - `src/`: Source code files (`.cpp`, `.c`).
